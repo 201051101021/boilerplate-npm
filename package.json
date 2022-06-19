@@ -4,7 +4,7 @@
     "express": "^4.14.0"
   },
   "version": "1.0.0",
-  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "description": "Careeervio project",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,8 +14,13 @@
     "type": "git",
     "url": "git+https://github.com/201051101021/boilerplate-npm.git"
   },
+  "keywords": [
+    "careervio",
+    "backend",
+    "project"
+  ],
   "author": "Suwasan Vutiket",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/201051101021/boilerplate-npm/issues"
   },
